@@ -257,6 +257,10 @@ const is = {
           title: "Aakriti's Short Notes",
           url: "https://drive.google.com/file/d/1rMOylslZaZhnTFe9_g9lkOeXEwsaXcfV/view?usp=drive_link",
         },
+        {
+          title: "Rahil's Notes",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/ES0-jpg74NxAmqM4_YGtzhgBtzdkaPDmkrxWkPXHfbJmiQ?e=vDkekX"
+        }
       ],
       topics: [
         {
@@ -290,7 +294,12 @@ const is = {
           title:
             "Time-of Check to Time-of-Use,  Undocumented Access Point Off-by-One,  Error Integer Overflow, Unterminated Null-Terminated String, Parameter Length, Type, and Number,  Unsafe Utility Program, Race Condition (Refer Notes for these topics from page 32)",
           description: "Basic concepts and importance",
-          videos: [],
+          videos: [
+            {
+              title: "Time-of-Check to Time-of-Use",
+              url: "https://www.youtube.com/embed/dTBItqNcc4o?si=JcYIIakzk1TOBKfq",
+            },
+          ],
         },
         {
           title:
@@ -319,17 +328,21 @@ const is = {
     3: {
       notesLink: [
         {
-          title: "Notes 1",
-          url: "https://somaiya0-my.sharepoint.com/:p:/g/personal/romil_l_somaiya_edu/EZqeozsif7xDv3K98Fal-agByMycvI2kD4o22MsnSrEqyA?e=x1Axfs",
+          title: "Module 3 PPT",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/EWoE1TsgzkVNiPbZDeaWHbwBFJZ4WOk-hbG5-OJ2Ak_pgQ?e=lbfE09",
         },
         {
-          title: "Notes 2",
-          url: "https://somaiya0-my.sharepoint.com/:p:/g/personal/romil_l_somaiya_edu/EY1z3Dn4XGlAptiklz-nQkkBqWBl7m6FmeoD4klYQyIYzQ?e=uN2LnU",
+          title: "Module 3.5 PPT",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/EfRlrZO-18FNgkj8phBYEY8BJ4V-J5QLKe_9s3IqwrZFKg?e=tzPiVQ",
         },
         {
-          title: "Notes 3",
-          url: "https://somaiya0-my.sharepoint.com/:p:/g/personal/romil_l_somaiya_edu/EUBK1ClVMrNIphtf7zLmTzUBYcoWe9dDt4wicpWMljakww?e=XGBkqb",
+          title: "Email Security PPT",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/EVfKhB9zWzVHt26aICD8h1EBaBE3We8zgkLKfTE21SOAMA?e=ydDcIL",
         },
+        {
+          title: "OWASP PPT",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/Ed67Td02W_VKiyKFf1M5kAwBfgxhBlPSFlpa3oR7eenF8A?e=oHLrMy"
+        }
       ],
       topics: [
         {
@@ -346,7 +359,7 @@ const is = {
         },
         {
           title:
-            "3.3 Obtaining User or Website Data- Code Within Data, Website Data: A User’s Problem, Foiling Data Attacks",
+            "3.3 Obtaining User or Website Data- Code Within Data, Website Data: A User's Problem, Foiling Data Attacks",
           description: "Basic concepts and importance",
           videos: [],
         },
@@ -354,27 +367,37 @@ const is = {
           title:
             "3.4 Email Attacks - Fake Email, Fake Email Messages as Spam, Fake (Inaccurate) Email Header Data, Phishing, Protecting Against Email Attacks",
           description: "Basic concepts and importance",
-          videos: [],
+          videos: [
+            {
+              title: "Phishing Attack",
+              url: "https://www.youtube.com/embed/XBkzBrXlle0?si=y9_68agePCoK_KrH",
+            },
+            {
+              title: "Email Spoofing",
+              url: "https://www.youtube.com/embed/u0rYFl691D8?si=_6_I5PYaEC2fTy-4",
+            },
+          ],
         },
         {
           title: "3.5 Open Web Application Security Project(OWASP)",
           description: "Basic concepts and importance",
-          videos: [],
+          videos: [
+            {
+              title: "OWASP",
+              url: "https://www.youtube.com/embed/Di5fsb0tW5g?si=j_tPT8ot1cHKcZfZ",
+            }
+          ],
         },
       ],
     },
     4: {
       notesLink: [
         {
-          title: "Module 4 PPT",
-          url: "https://somaiya0-my.sharepoint.com/:p:/g/personal/romil_l_somaiya_edu/EUBK1ClVMrNIphtf7zLmTzUBYcoWe9dDt4wicpWMljakww?e=XGBkqb",
-        },
-        {
-          title: "Notes 1",
+          title: "Notes 1 - Networks",
           url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/EcTehaW_35dOqAz-y_mBHJQBBLezxh6vEGlQlWOXAUrAIw?e=iTsYRt",
         },
         {
-          title: "Notes 2",
+          title: "Notes 2 - Wireless Networks",
           url: "https://somaiya0-my.sharepoint.com/:p:/g/personal/rohit_sd_somaiya_edu/EepCh1pxYdRLvXRQo3T1LUoB4BpvuErWsirV91pzaqnWQw?e=zCKBUN",
         },
         {
@@ -395,38 +418,80 @@ const is = {
           title:
             "4.1 Threats to Network Communications - Interception: Eavesdropping and Wiretapping, Modification, Fabrication: Data Corruption, Interruption: Loss of Service Port Scanning Wireless Network Security - WiFi Background Vulnerabilities in Wireless Networks, Failed Countermeasure: WEP (Wired Equivalent Privacy), Stronger Protocol Suite: WPA (WiFi Protected Access)",
           description: "Basic concepts and importance",
-          videos: [],
+          videos: [
+            {
+              title: "Network Security",
+              url: "https://www.youtube.com/embed/-tAy-X3DsOw?si=rJxV0j9RcWdFLeME",
+            },
+            {
+              title: "Packet Sniffing",
+              url: "https://www.youtube.com/embed/8JAALEF39ZU?si=nuI4zqjd4iTeAQFV",
+            },
+            {
+              title: "ARP Spoofing",
+              url: "https://www.youtube.com/embed/fZL6uN8uXdE?si=6z6-S_XT6u5jWODu",
+            },
+            {
+              title: "IP Spoofing",
+              url: "https://www.youtube.com/embed/40gzPZX4QNw?si=w4BcizofFVq-W9jG",
+            }
+          ],
         },
         {
           title:
             "4.2 Denial of Service- How service is Denied, Flooding Attacks, Network Flooding Caused by Malicious Code, Network Flooding by Resource Exhaustion, Denial of Service by Addressing Failures, Traffic Redirection, DNS Attacks, Exploiting Known Vulnerabilities Physical Disconnection Distributed Denial of-Service- Scripted Denial-of-Service Attacks, Bots, Botnets, Malicious Autonomous Mobile Agents, Autonomous Mobile Protective Agents",
           description: "Basic concepts and importance",
-          videos: [],
+          videos: [
+            {
+              title: "Denial of Service",
+              url: "https://www.youtube.com/embed/SNltfDv4ZiY?si=zrmm-X-QDcv6DfmZ",
+            },
+            {
+              title: "DDoS Attack",
+              url: "https://www.youtube.com/embed/JsGFeqC2z4o?si=1bcVF7HzIrl-gsfT",
+            }
+          ],
         },
         {
           title:
             "4.3 Firewalls - What Is a Firewall? , Design of Firewalls, Types of Firewalls, Personal Firewalls, Comparison of Firewall, Types Example Firewall, Configurations Network Address Translation (NAT), Data Loss Prevention",
           description: "Basic concepts and importance",
-          videos: [],
+          videos: [
+            {
+              title: "Firewall",
+              url: "https://www.youtube.com/embed/o_vyfo3Hw0Y?si=CEDXHizMCmQaqqMe",
+            },
+            {
+              title: "Firewall - Part 2",
+              url: "https://www.youtube.com/embed/CHtTLireUCA?si=0MLd0KgAnsEBxxTM",
+            },
+            {
+              title: "Types of Firewalls",
+              url: "https://www.youtube.com/embed/aUPoA3MSajU?si=ylMcWS9TXTNYs3xz",
+            }
+          ],
         },
       ],
     },
-    5:{
-      notesLink:[
-        
-      ],
-      topics:[
+    5: {
+      notesLink: [
         {
-          title:"5.1 Protecting Programs and Data- Copyrights, Patents, Trade Secrets, Special Cases",
-          description:"Basic concepts and importance",
-          videos:[
+          title: "Module 5 PPT- Legal Issues & Ethics",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/EYDhv-YvjZ5DrJ_s1ZPEXR4BwcyarZazG9i59Ktnaw942w?e=l0SQgD"
+        }
+      ],
+      topics: [
+        {
+          title: "5.1 Protecting Programs and Data- Copyrights, Patents, Trade Secrets, Special Cases",
+          description: "Basic concepts and importance",
+          videos: [
 
           ]
         },
         {
-          title:"5.2 Ethical Issues in Computer Security - Differences Between the Law and Ethics, Studying Ethics, Ethical Reasoning",
-          description:"Basic concepts and importance",
-          videos:[
+          title: "5.2 Ethical Issues in Computer Security - Differences Between the Law and Ethics, Studying Ethics, Ethical Reasoning",
+          description: "Basic concepts and importance",
+          videos: [
 
           ]
         }

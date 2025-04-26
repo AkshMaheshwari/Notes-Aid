@@ -31,6 +31,14 @@ const pyqLinks:pyqLink={
         {
             title:"Textbooks",
             url:"https://drive.google.com/drive/folders/1nDhVCxdEF3xE6v65PAbnzzdn3XGsZ1xd?usp=sharing"
+        },
+        {
+            title: "Importance Percentage per Module",
+            url: "https://docs.google.com/spreadsheets/d/1agK0A8mo7oSlWpDf_gpGYutzdHXBSyl1vNkIJPoSh1Q/edit?usp=sharing",
+        },
+        {
+            title: "ESE Time Table",
+            url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/Eepfyn8wyjpEiGMozgI1C4YBflP6krEmj8a-mUeLcHgG4Q?e=MKWHFy",
         }
     ],
     ly:[],

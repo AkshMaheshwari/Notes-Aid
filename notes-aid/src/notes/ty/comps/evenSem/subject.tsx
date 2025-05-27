@@ -28,25 +28,9 @@ const subjects: Subjects = {
       1: {
         notesLink: [
           {
-            title: "Notes 1",
-            url: "https://drive.google.com/file/d/1yMCgNSGgRlqBfouRmyNXgXEEaPRjOL86/view?usp=sharing",
-          },
-          {
-            title: "Notes 2",
-            url: "https://drive.google.com/file/d/1zITv6KHvz5x1Hjg0kp2hGqcQ9dQGkpZE/view?usp=sharing",
-          },
-          {
-            title: "Notes 3",
-            url: "https://drive.google.com/file/d/1lXXUJ_Di70sqcGYLpZ1xXTJhSWN-3VcF/view?usp=drive_link",
-          },
-          {
-            title: "Notes 4",
-            url: "https://drive.google.com/file/d/1n7Lv6A7qlkk0iWzOarnP0z7gGeGvOYPu/view?usp=drive_link",
-          },
-          {
-            title: "Notes 5",
-            url: "https://drive.google.com/file/d/1yOYbvs03ULo5rbgkxuucQVc4gINnRQFb/view?usp=drive_link",
-          },
+            title:"All Notes",
+            url:"https://somaiya0-my.sharepoint.com/:f:/g/personal/rohit_sd_somaiya_edu/EiDN6Fb_uS1Ep70frWb6CZUBL5a99orvfaTCIqgzu0uGaA?e=eEiz6o"
+          }
         ],
         topics: [
           {
@@ -98,17 +82,9 @@ const subjects: Subjects = {
       2: {
         notesLink: [
           {
-            title: "Notes 1",
-            url: "https://drive.google.com/file/d/1XnBn-vbZDp0rGePs_pJ8fYrWqCaMh9tC/view?usp=drive_link",
-          },
-          {
-            title: "Notes 2",
-            url: "https://drive.google.com/file/d/1gzWTcj9re10FsvKA9bL4B9welJqAfU8t/view?usp=sharing",
-          },
-          {
-            title: "Notes 3",
-            url: "https://drive.google.com/file/d/14zH7me3thnh3OzDbvo2fPAtoQ-nlIGYC/view?usp=drive_link",
-          },
+            title:"All Notes",
+            url:"https://somaiya0-my.sharepoint.com/:f:/g/personal/rohit_sd_somaiya_edu/EiDN6Fb_uS1Ep70frWb6CZUBL5a99orvfaTCIqgzu0uGaA?e=eEiz6o"
+          }
         ],
         topics: [
           {
@@ -118,6 +94,10 @@ const subjects: Subjects = {
               {
                 title: "2.1.1 Apiori Algorithm",
                 url: "https://www.youtube.com/embed/NT6beZBYbmU?si=Y346a80KM44WYVRy",
+              },
+              {
+                title:"Apriori Algorithm - 2",
+                url:"https://www.youtube.com/embed/hBJ21-fR_xA?si=IIGYB8SEW7iZSLmS"
               },
               {
                 title: "2.1.2 FP Growth Algorithm",
@@ -135,6 +115,22 @@ const subjects: Subjects = {
                 title: "2.1.5 Multi-Dimensional Association Mining",
                 url: "https://www.youtube.com/embed/M3wyG3HKuNg?si=o_P4EaAahylemwYh",
               },
+              {
+                title:"Hash Based Tree Algorithm",
+                url:""
+              },
+              {
+                title:"FUP",
+                url:""
+              },
+              {
+                title:"FM",
+                url:""
+              },
+              {
+                title:"CPS",
+                url:""
+              }
             ],
           },
           {
@@ -165,52 +161,40 @@ const subjects: Subjects = {
           },
         ],
       },
-      4: {
+      3:{
         notesLink: [
           {
-            title: "Clustering",
-            url: "https://drive.google.com/file/d/1RbLSaz9NbJ77TE1FPD-U4pZjWP2F7Hnz/view?usp=drive_link",
-          },
+            title:"All Notes",
+            url:"https://somaiya0-my.sharepoint.com/:f:/g/personal/rohit_sd_somaiya_edu/EiDN6Fb_uS1Ep70frWb6CZUBL5a99orvfaTCIqgzu0uGaA?e=eEiz6o"
+          }
+        ],
+        topics: [
           {
-            title: "Hierarchial Clustering",
-            url: "https://drive.google.com/file/d/1icdkCzmQ1nayrfX-CZmO7mjla1FFOvm8/view?usp=drive_link",
+            title: "Module 3 Numericals",
+            description: "Numerical based concepts- Important for exam ⭐",
+            videos: [
+              {
+                title: "Edge Betweeness ",
+                url: "",
+              },
+              {
+                title: "Girvan Newman",
+                url: "",
+              },
+              {
+                title: "Social Network Analysis",
+                url: "",
+              },
+            ],
           },
-          {
-            title: "Aggolomerative Clustering",
-            url: "https://drive.google.com/file/d/1QMeVY6BVN_t1RnHuz72EhrrgSIYqtOv8/view?usp=drive_link",
-          },
-          {
-            title: "Complete Linkage",
-            url: "https://drive.google.com/file/d/1K1Goft-MF16n0YRZPvitc6IICxUbPbJ4/view?usp=drive_link",
-          },
-          {
-            title: "K-Means Clustering - 1",
-            url: "https://drive.google.com/file/d/1utyDeaQF7T9MUeLWG9I3AtfoUJWhmLbd/view?usp=drive_link",
-          },
-          {
-            title: "K-Means Clustering - 2",
-            url: "https://drive.google.com/file/d/1P4G76f9NttJXtZN-ZbAua2R6LE6wNMX7/view?usp=drive_link",
-          },
-          {
-            title: "Text Mining",
-            url: "https://drive.google.com/file/d/1QzLr-KmXKAw6NWvqlvmCz_fQtQs2XX39/view?usp=drive_link",
-          },
-          {
-            title: "TF-IDF",
-            url: "https://drive.google.com/file/d/1lBFfvG4oMKQkvLnDnFVTGpwKCGZEey_U/view?usp=drive_link",
-          },
-          {
-            title: "Bag of Words vs TF-IDF",
-            url: "https://drive.google.com/file/d/14-lfVEjhwu_MBtuJtr1b4qtUK8eeE5cd/view?usp=drive_link",
-          },
-          {
-            title: "Recommender Systems",
-            url: "https://drive.google.com/file/d/1ykf45vqnM_cdOwWxu1x6ScgkwxPuPpD1/view?usp=drive_link",
-          },
-          {
-            title: "Hybrid Recommender Systems",
-            url: "https://drive.google.com/file/d/1iXT8UpYRV6bfT4sD3qxLVfVfIo8O1KyW/view?usp=drive_link",
-          },
+        ],
+      },
+      4: {
+        notesLink: [
+           {
+            title:"All Notes",
+            url:"https://somaiya0-my.sharepoint.com/:f:/g/personal/rohit_sd_somaiya_edu/EiDN6Fb_uS1Ep70frWb6CZUBL5a99orvfaTCIqgzu0uGaA?e=eEiz6o"
+          }
         ],
         topics: [
           {
@@ -218,17 +202,69 @@ const subjects: Subjects = {
             description: "Numerical based concepts- Important for exam ⭐",
             videos: [
               {
-                title: "4.1.1 Hierarchical Clustering",
-                url: "https://www.youtube.com/embed/tXYAdGn-SuM?si=4aDUO_b7OP0tq16d",
+                title: "4.1.1 Hierarchical Clustering: Single Linkage",
+                url: "",
+              },
+              {
+                title: "4.1.1 Hierarchical Clustering: Complete Linkage",
+                url: "",
+              },
+              {
+                title: "4.1.1 Hierarchical Clustering: Average Linkage",
+                url: "",
               },
               {
                 title: "4.1.2 K-Means Clustering",
-                url: "https://www.youtube.com/embed/KzJORp8bgqs?si=G0FzNFTpb0QmC69i",
+                url: "",
               },
+              {
+                title:"Vector Model Sum",
+                url:""
+              },
+              {
+                title:"Page Rank",
+                url:""
+              },
+              {
+                title:"HITS",
+                url:""
+              },
+              {
+                title:"TF-IDF",
+                url:""
+              },
+              {
+                title:"Naive Bayes",
+                url:""
+              }
             ],
           },
         ],
       },
+      5:{
+        notesLink: [
+          {
+            title:"All Notes",
+            url:"https://somaiya0-my.sharepoint.com/:f:/g/personal/rohit_sd_somaiya_edu/EiDN6Fb_uS1Ep70frWb6CZUBL5a99orvfaTCIqgzu0uGaA?e=eEiz6o"
+          }
+        ],
+        topics: [
+          {
+            title: "Module 5 Numericals",
+            description: "Numerical based concepts- Important for exam ⭐",
+            videos: [
+              {
+                title: "GSP",
+                url: "",
+              },
+              {
+                title:"DTW",
+                url:""
+              }
+            ],
+          },
+        ],
+      }
     },
   },
 };

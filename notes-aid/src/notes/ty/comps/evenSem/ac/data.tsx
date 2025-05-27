@@ -476,23 +476,51 @@ const ac = {
         {
           title: "5.1 Quantum Cryptography, Quantum key distribution-QKD",
           description: "Theoretical based concepts",
-          videos: [],
+          videos: [
+            {
+              title:"Quantum Cryptography",
+              url:""
+            },
+            {
+              title: "Quantum Key Distribution",
+              url: "",
+            }
+          ],
         },
         {
           title: "5.2 Homomorphic Encryption",
           description: "Theoretical based concepts",
-          videos: [],
+          videos: [
+            {
+              title: "Homomorphic Encryption",
+              url: "",
+            },
+          ],
         },
         {
           title:
             "5.3 Secure Multi-Party Computation (MPC) In particular,Zero-Knowledge Proofs",
           description: "Theoretical based concepts",
-          videos: [],
+          videos: [
+            {
+              title: "Secure Multi-Party Computation",
+              url: "",
+            },
+            {
+              title: "Zero-Knowledge Proofs",
+              url: "",
+            }
+          ],
         },
         {
           title: "5.4 Cryptographic Obfuscation",
           description: "Theoretical based concepts",
-          videos: [],
+          videos: [
+            {
+              title: "Cryptographic Obfuscation",
+              url: "",
+            },
+          ],
         },
       ],
     },
